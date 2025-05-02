@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Yubraj</h1>
 <h3 align="center">I’m a passionate Graphic Designer & Full-Stack Developer</h3>
-
+<img src="https://img.freepik.com/premium-vector/software-developer-vector-illustration-communication-technology-cyber-security_1249867-5471.jpg?w=826" width="450px" align="right" alt="" >
 - 🌱 I’m currently learning **Graphic Design & Full-Stack on MERN**
 
 - My page [https://yubrajtimilsina.com.np/](https://yubrajtimilsina.com.np/)
